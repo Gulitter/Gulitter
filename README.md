@@ -6,7 +6,7 @@
 #### [SLAM](https://github.com/Gulitter/SLAM)
 
 ## 2024
-#### [주문체계 홈페이지, 프로그램, 앱 개발](https://github.com/Gulitter/Order_System)
+#### [주문체계(홈페이지, 프로그램, 앱) 개발](https://github.com/Gulitter/Order_System)
 
 ## 2023
 #### [딥러닝을 활용한 차 번호판 인식](https://github.com/Gulitter/DeepLearning_Carpla)
