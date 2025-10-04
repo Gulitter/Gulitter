@@ -1,4 +1,18 @@
-## Hi there 👋
+# Projects
+
+안녕하세요. 전자전기공학 전공한 구예찬입니다. 
+
+## 2024
+[Order_System]([url](https://github.com/Gulitter/Order_System))
+## 2023
+
+## 2023
+
+## 2022
+
+## 2021
+
+## 2020
 
 <!--
 **Gulitter/Gulitter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
