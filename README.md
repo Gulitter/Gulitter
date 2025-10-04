@@ -21,6 +21,7 @@
 ## 2022
 #### [강화학습을 통한 장애물 회피 자율주행 로봇](https://github.com/Gulitter/Robot_StarForce)
 #### [라인트레이서](https://github.com/Gulitter/DC_Tracer)
+#### [사진에 어울리는 노래추천 사이트](https://github.com/Silicon-Valley-Team-A/Recommade-8de)
 #### [시각장애인을 위한 ICT융합 자율주행 서비스 로봇](https://github.com/Gulitter/Robot_Sana)
 #### [자율주행 자이트론 미션수행(시뮬레이션_주차, 수직주차, 터널통과 담당)](https://github.com/Gulitter/Xicar_Contest)
 #### [웨어러블 마우스](https://github.com/Gulitter/Wearable_Mouse)
