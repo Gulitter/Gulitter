@@ -32,7 +32,7 @@
 ## 2020
 #### [날씨 알려주는 장치](https://github.com/Gulitter/Public_data_arduino)
 
-# TIL
+# BLOG
 https://blog.naver.com/gycej1017
 
 <!--
