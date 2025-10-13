@@ -20,6 +20,7 @@
 
 ## 2023
 #### [딥러닝을 활용한 차 번호판 인식](https://github.com/Gulitter/DeepLearning_Carplate)
+#### [초전력 TinyML 시스템(STM32) 개발](https://github.com/Gulitter/STM32_TinyML)
 
 ## 2022
 #### [강화학습을 통한 장애물 회피 자율주행 로봇](https://github.com/Gulitter/Robot_StarForce)
